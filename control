@@ -1,0 +1,9 @@
+Package: com.chr1s.tapflash
+Name: TapFlash
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Press volume buttons simultaneously to enable flashlight!
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
