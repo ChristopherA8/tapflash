@@ -6,7 +6,7 @@
 // 				  //
 // This tweak could be way better //
 // optimized, and not use global  //
-// variabled etc..		  //
+// variables etc..		  //
 // I wrote this for a friend and  //
 // kind of forgot about it.	  //
 // : )    that is all		  //
