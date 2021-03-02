@@ -3,15 +3,15 @@
 
 
 // PLEASE READ BEFORE ROASTING ME //
-// 								  //
+// 				  //
 // This tweak could be way better //
 // optimized, and not use global  //
-// variabled etc..				  //
+// variabled etc..		  //
 // I wrote this for a friend and  //
-// kind of forgot about it.		  //
-// : )    that is all			  //
-// Hope you like it				  //
-//								  //
+// kind of forgot about it.	  //
+// : )    that is all		  //
+// Hope you like it		  //
+//				  //
 ////////////////////////////////////
 
 @interface SBVolumeControl
